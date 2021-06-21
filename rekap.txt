@@ -1,0 +1,58 @@
+P1 OK
+
+bintang athar : P3
+farid fatinnuha : P3
+syahrial ridho : P3
+usamah as : P3
+
+1 briyan adan : P5
+2 khoirul hidayat : P5
+3 kirrana garlusi : P5
+4 muhammad rasyid : P5
+5 muhammad zhafran : P5
+6 syahrial ridho : P5
+
+khoirul hidayat : P7
+
+bintang athar : P9
+ilayatul hayati : P9
+khoirul hidayat : P9
+muhammad rasyid : P9
+muhammad zhafran : P9
+
+ilayatul hayati : P11
+khoirul hidayat : P11
+muhammad rasyid : P11
+
+khoirul hidayat : P13
+
+adhitya azis : P15
+khoirul hidayat : P15
+
+bintang athar : P3
+farid fatinnuha : P3
+syahrial ridho : P3
+usamah as : P3
+
+briyan adan : P5
+khoirul hidayat : P5
+kirrana garlusi : P5
+muhammad rasyid : P5
+muhammad zhafran : P5
+syahrial ridho : P5
+
+khoirul hidayat : P7
+
+bintang athar : P9
+ilayatul hayati : P9
+khoirul hidayat : P9
+muhammad rasyid : P9
+muhammad zhafran : P9
+
+ilayatul hayati : P11
+khoirul hidayat : P11
+muhammad rasyid : P11
+
+adhitya azis : P15
+khoirul hidayat : P15
+
